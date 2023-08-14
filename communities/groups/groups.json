@@ -13701,5 +13701,111 @@
     "email": "info@slakcmo.com",
     "instagram": "https://www.instagram.com/slakcmo/",
     "facebook": "https://www.facebook.com/groups/slakcmo"
-  }
-]
+ },
+    {         
+    "id": "MT9Td6T",
+    "name": "SLAKCMO",
+    "lat": 39.028245, ,
+    "lng": -94.594765,
+    "createdDateTime": "2023-08-14",
+    "updatedDateTime": "2023-08-14",
+    "email": "info@slakcmo.com"
+    "instagram": "https://www.instagram.com/slakcmo/",
+    "facebook": "https://www.facebook.com/groups/slakcmo",
+
+ },
+    {
+    "id": "ME1EUcm",
+    "name": "Slackline- Cuiabá-MT",
+    "createdDateTime": "2023-08-14",
+    "updatedDateTime": "2023-08-14",
+    "instagram": "https://www.instagram.com/slacklinemt/"
+
+},
+{
+    "id": "5ZS2c_O",
+    "name": "Piscinão da Penha",
+    "lat": -23.531611,
+    "lng": -46.537694,
+    "createdDateTime": "2023-08-14",
+    "updatedDateTime": "2023-08-14",
+    "email": "manrique23@gmail.com",
+    "whatsapp": "https://api.whatsapp.com/send?phone=5511980782159"
+},
+    {
+      "id": "0UM0adX",
+    "name": "Slackline Roma A.S.D",
+    "lat": -23.531611,
+    "lng": -46.537694,
+    "createdDateTime": "2023-08-14",
+    "updatedDateTime": "2023-08-14",
+    "email": "slackroma@gmail.com"
+    "instagram": "https://www.instagram.com/slacklineroma/",
+    "facebook": "https://www.facebook.com/slacklineromaasd",
+    "whatsapp": "https://chat.whatsapp.com/DxNT6bETlKp21tDFxk489q"
+    "webpage": "https://www.slacklineroma.it"	
+
+},
+    {
+    "id": "Iq0-3jr",
+    "name": "Glasgow Slackliners",
+    "lat": 55.85831982604876,
+    "lng": -4.252640736845077,
+    "createdDateTime": "2023-08-14",
+    "updatedDateTime": "2023-08-14",
+    "email": "thecapcom@gmail.com",
+    "facebook": "https://www.facebook.com/groups/glasgowslackliners/"
+      
+},
+    {
+    "id": "3fh8w7X",
+    "name": "okslackers (Kelowna)",
+    "lat": 49.8842,
+    "lng": 119.5020,
+    "createdDateTime": "2023-08-14",
+    "updatedDateTime": "2023-08-14",
+    "email": "elodiepaq@gmail.com",
+    "instagram": "https://www.instagram.com/okslackers/",
+},
+    {
+    "id": "wmN2rX6",
+    "name": "Jaibalife",
+    "lat":  20.69971738519943, 
+    "lng": -103.37202694577492,
+    "createdDateTime": "2023-08-14",
+    "updatedDateTime": "2023-08-14",
+    "email": "jaiba.life.gdl@gmail.com"
+    "instagram": "https://www.instagram.com/jaibalife/",
+    "facebook": "https://www.facebook.com/profile.php?id=100063237337647"
+      },
+    {
+
+    "id": "NvUIZlZ",
+    "name": "Slackline Roma ASD",
+    "lat": 41.852904,, 
+    "lng": 12.557091,
+    "createdDateTime": "2023-08-14",
+    "updatedDateTime": "2023-08-14"
+},
+    { 
+    "id": "hk_Spla",
+    "name": "Bonobo Slackline Santa Cruz Bolivia",
+    "createdDateTime": "2023-08-14",
+    "updatedDateTime": "2023-08-14",
+    "instagram": "https://instagram.com/bonoboslacklinesc?igshid=MjEwN2IyYWYwYw==",
+    "whatsapp": "https://chat.whatsapp.com/HuvryLcpQNSAb66NxRi6al"
+  },
+    { 
+    "id": "6tvmrIv",
+    "name": "Slackline Chicago",
+    "lat":  41.928720,
+    "lng":  -87.635962,
+    "createdDateTime": "2023-08-14",
+    "updatedDateTime": "2023-08-14",
+    "email": "slacklinechicago@gmail.com"
+"instagram": "https://www.instagram.com/slacklinechicago/",
+"facebook": "https://www.facebook.com/groups/slacklinechicago",
+
+        },
+    { 
+  
